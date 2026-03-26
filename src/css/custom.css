@@ -28,3 +28,10 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* 도큐사우루스가 Front Matter의 title을 기반으로 자동 생성하는 제목 숨기기 */
+/*
+.theme-doc-markdown header h1 {
+  display: none !important;
+}
+  */

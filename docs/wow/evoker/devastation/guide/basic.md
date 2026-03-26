@@ -3,13 +3,15 @@ title: "(황폐) 1시즌 시즌초 기초 가이드"
 sidebar_label: "(황폐) 1시즌 시즌초 기초 가이드"
 ---
 
-**원작자:** 발돌 (wow.inven.co.kr)  
-**출처:** [https://www.inven.co.kr/board/wow/5918/4402](https://www.inven.co.kr/board/wow/5918/4402)  
-**갈무리 일자:** 2026년 3월 26일  
+# (황폐) 1시즌 시즌초 기초 가이드
 
 ---
 
-# (황폐) 1시즌 시즌초 기초 가이드
+- **원작자:** 발돌 (wow.inven.co.kr)  
+- **출처:** [https://www.inven.co.kr/board/wow/5918/4402](https://www.inven.co.kr/board/wow/5918/4402)  
+- **갈무리 일자:** 2026년 3월 26일  
+
+---
 
 레이드 돌아보고 와서 자기 객관화 해보고 쓰는 기초가이드.  
 내 로그는 그냥 그렇긴한데.. 뭐 기초니까 괜찮겠쮸.  
