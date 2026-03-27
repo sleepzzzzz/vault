@@ -1,0 +1,219 @@
+Preservation Evoker Rotation Guide - Midnight
+Voulk (이)가 작성함
+업데이트됨: 2026/02/25
+Welcome to the Preservation Evoker rotation guide for Midnight Season 1! This guide will teach you all about the optimal rotation for Preservation Evoker across its various talent builds. It will cover both core ability cadence and cooldown usage in dungeons and raids for Midnight Season 1.
+
+Preservation Evoker Rotation in Midnight Prepatch
+Preservation Evoker is an unconventional healer with a few unique mechanics that can make it a little more daunting to pick up, but it's also extremely fun once you do. Midnight removes quite a few buttons and interactions, which should greatly improve the accessibility of the spec. Here are some core concepts to keep in mind, especially if you're new to the spec:
+Use Short Cooldowns Regularly: Cast  시간 변칙 the moment it comes off cooldown. It generates a lot of  메아리 buffs and heals for a decent amount via its absorb. Cast  꿈의 숨결 regularly when you do not have  메아리 buffs out.
+Cast Echo: Use your Essence resource and  정수 폭발s and try to avoid wasting any of either. You will mostly cast  메아리, but with the  쌍둥이 메아리 talent, you might weave with  에메랄드 꽃.
+Consume Echoes: Consume  메아리 buffs with powerful spells like  메리스라의 축복 (or  되감기) and  신록의 품. More information on this choice in the rotation section.
+
+광고 신고
+모든 광고 제거
+If you're looking for a more bite-sized rotation explanation, check out our simplified guide below:
+
+ Best Preservation Evoker Healing Priority and Rotation
+Both Preservation hero trees are extremely good so we'll look through the playstyle of each. In raid, both trees play very similarly with some minor differences in nuance and where your power is allocated. In Mythic+, the playstyles diverge a little more.
+
+Hero Talent Master Switches
+You can use the master switches below to flip the entire page's options to your selected choice. Bear in mind, current recommendation in all content is  Chronowarden though  Flameshaper is also a powerful tree.
+
+
+Raid Healing
+
+Preservation has a unique  메아리 mechanic where two of your spells (Echo and  시간 변칙) put  메아리 buffs on allies. The next spell you cast on any target will consume all  메아리 buffs you have out and duplicate whatever spell you cast to all of them.
+If you Echo target A, and then cast  신록의 품 on target B then both A and B will get a  신록의 품 heal and any associated effects.
+If you put five  메아리 buffs out with  시간 변칙 then press  되감기, then all five of them will get a  되감기 heal-over-time effect.
+
+You'll get used to this quickly but I highly recommend logging in and casting a few Echoes around town to get used to how it works. This mechanic gives us superb flexibility in our healing style since we can prepare for damage by putting out  메아리 buffs and then consume them with a range of different spells depending on the situation we're in.
+
+Tell me more about Echo
+Echo also copies all extra talents you have for the spell that you consume them with. If you  되감기, then they will all:
+Heal for 15% of the damage they took recently ( 사활의 순간).
+Receive 10% more healing from you in the future ( 은총의 시간).
+Give you a 15% chance each of proccing  정수 폭발.
+We're going to cover which spell you should  메아리 later in this section, but you can see the potential. The only effect that does not  메아리 is  생명 결속 which is now limited to one target.  메아리 buffs also won't be consumed by  에메랄드 꽃 - only  살아있는 불꽃,  신록의 품,  되감기 and  꿈의 숨결 - your core healing spells.
+
+You'll often put out quite a few  메아리 buffs at a time before consuming them. This is sometimes referred to as a "Ramp" - a build-up of buffs before a big payoff phase where you heal a lot of people at once with one of your best spells.
+Priority - Emphasize Short Cooldowns
+Now that you know how  메아리 works, we can discuss what other abilities we'll be casting a lot and how the rotation all fits together. There are two key components to preservation healing:
+ 메아리 and the spells you will consume them with.
+Your short cooldown spells. Cast  시간 변칙 as often as possible, and  꿈의 숨결 just after consuming your  메아리 buffs. They are expensive but do more than enough healing to justify it.
+Cast these often
+
+On CD
+
+Often
+
+See Below
+
+Do this in between
+
+
+
+
+
+When damage
+
+On Boss
+Quick Chronowarden Priority List
+Cast  시간 변칙 on cooldown.
+Cast  꿈의 숨결 often. Cast it after you have consumed  메아리 buffs to avoid consuming them with  꿈의 숨결.
+Cast  신록의 품 within a 15-second window. - 
+Cast  에메랄드 꽃 if you have an  정수 폭발.
+Cast  메아리 if you have Essence available and either no  정수 폭발 buff or you are at two stacks of  쌍둥이 메아리.
+Consume  메아리 buffs with  메리스라의 축복 (common) or  신록의 품 (rare).
+Cast  살아있는 불꽃 on the boss to farm  정수 폭발s and contribute a little damage. You get a large mana refund if you cast it on an enemy instead of an ally.
+Explain Echo vs Emerald Blossom 
+ VS 
+The  쌍둥이 메아리 talent incentivizes  에메랄드 꽃 usage by giving us a double  메아리 on our next cast if we do.  에메랄드 꽃 is also expensive, both in terms of mana and essence. However,  정수 폭발 removes both of those costs. If you have two bursts you can cast two  에메랄드 꽃 in a row and then your next two  메아리 casts will each cleave to a nearby ally.
+
+Therefore, we should always cast  에메랄드 꽃 when we have an  정수 폭발. It's sometimes ok to cast an  에메랄드 꽃 without one (mana permitting). It's acceptable to play without this talent if you'd prefer an easier playstyle.
+Explain when to consume Echo with which spell 
+ VS 
+There are two primary choices:  메리스라의 축복 and  신록의 품.  메리스라의 축복 will be your primary choice but it is a proc so it won't always be available. Your core play pattern will revolve around farming  메리스라의 축복 (each  메아리 and  에메랄드 꽃 has a 20% chance to proc it) and then consuming your  메아리 buffs with it. If you get unlucky, it is ok to consume with  되감기 in a pinch.
+
+ 신록의 품's niche is large healing absorbs since the amount it heals the primary  메아리 targets is higher than  메리스라의 축복 (which heals for a lot via its cleave and flow-on effects instead).
+
+Remember that  메리스라의 축복 also puts a full strength  되감기 on the target with all associated effects! It is just a  되감기 with a massive up-front multi-target heal attached.
+I'm having mana trouble 
+Mana is a conundrum as Preservation because our most expensive spell ( 시간 변칙) is also our most powerful. I don't recommend ever dropping  시간 변칙 casts because of how strong it is. Instead, drop filler casts of  살아있는 불꽃, or check your  에메랄드 꽃 usage to make sure you are not casting it without an  정수 폭발 buff.
+
+It's also reasonable to take the  마력의 순환 talent, which gives mana return on  파열 cast. If taken, you will use either Essence or  정수 폭발 on  파열 during downtime to recover. Whether to take  마력의 순환 or not is discussed more in the talents section of the guide, but you're only trading 2% healing or so to take it. Just this on a fight by fight basis - generally the longer or the less natural downtime you have, the more you will benefit from  마력의 순환.
+
+
+Mythic+ Healing
+
+Preservation has a unique  메아리 mechanic where two of your spells ( 메아리 and  시간 변칙) put  메아리 buffs on allies. The next spell you cast on any party member will consume all  메아리 buffs you have out and duplicate whatever spell you cast to all of them.
+If you  메아리 target A, and then cast  신록의 품 on target B then both A and B will get a  신록의 품 heal and any associated effects. This is primarily how we will use  메아리 casts in Mythic+.
+If you put five  메아리 buffs out with  시간 변칙 then press  되감기, then all five of them will get a  되감기 heal-over-time effect. This is primarily how we will use  시간 변칙 in Mythic+.
+
+
+Tell me more about Echo
+Echo also copies all extra talents you have for the spell that you consume them with. If you  되감기, then they will all:
+Heal for 15% of the damage they took recently ( 사활의 순간).
+Receive 10% more healing from you in the future ( 은총의 시간).
+Give you a 15% chance each of proccing  정수 폭발.
+We're going to cover which spell you should  메아리 later in this section, but you can see the potential. The only effect that does not  메아리 is  생명 결속 which is now limited to one target.  메아리 buffs also won't be consumed by  에메랄드 꽃 - only  살아있는 불꽃,  신록의 품,  되감기 and  꿈의 숨결 - your core healing spells.
+
+You'll often put out quite a few  메아리 buffs at a time before consuming them. This is sometimes referred to as a "Ramp" - a build-up of buffs before a big payoff phase where you heal a lot of people at once with one of your best spells.
+
+
+Mythic+ involves a mix of healing unavoidable damage, and mistakes your group might make. The former will get more difficult as you climb key levels, and the latter often gets easier as player skill improves. Preservation excels at damage you know is coming but has fewer responses to sharp damage on a single player. Let's look at what we have available to us:
+Cast Combo on Cooldown -  되감기 Uptime
+
+
+This gives you a 100% uptime on the  되감기 buff on the entire group and a very frequent shield on everyone.
+
+Why is this important
+ 되감기 coverage puts a 10% healing buff on your entire group ( 은총의 시간), covers small incidental damage they'll take via the HoT and in Midnight will also give them a damage reduction effect. Some of these do not scale with the power of the  메아리 buff you consume which makes  되감기 a uniquely good spell to combine with  시간 변칙 (which puts out weaker  메아리 buffs). These will also give you a chance to proc  생명불꽃 - a good damage or healing effect.
+Heavier Damage -  신록의 품
+
+
+
+
+When heavy damage is coming up you can use your  메아리 spell to put larger  메아리 buffs on your party. You can usually prioritize two DPS in your in your party plus yourself since the tank is not usually vulnerable to the same type of AoE damage as the rest of your party. Then, cast  신록의 품 on whoever you didn't  메아리. The  신록의 품 cast is copied to your three  메아리 targets and all four of you will get a massive heal and a solid 8-second heal-over-time effect afterwards.
+Fitting in your other spells
+Those will make up quite a lot of your healing but we have a few more useful spells too. Here are some common scenarios where they'll be useful:
+ 꿈의 숨결: Key Cast. Cast on cooldown at rank 1 if damage is low to moderate. Cast at rank 3 if you require a burst heal.
+ 불의 숨결: Key Cast. Massive AoE damage ability that'll also heal the party for a lot. Cast at rank 3.
+ 시간 팽창: Superb damage reduction for a single target. Low cooldown so use this regularly.
+ 미풍: Cast before AoE damage to reduce how much damage it does. You'll generally need to play through a dungeon a few times to pick out useful spots for it.
+We also bring quite a few powerful healing cooldowns that we'll discuss further down the page.
+Spot Healing - Fixing Mistakes
+Sometimes a single target will take a lot of damage at once. It could be the tank, or it could be from a missed interrupt. We'll respond to those types of events by casting  되감기 on the target immediately, or if we think we have an extra GCD we can Echo ->  되감기. We're taking advantage of  사활의 순간 which heals back a portion of the damage they just took. We have two charges of  되감기 so it won't interrupt your  시간 변칙 ->  되감기 plan from above. If they require more healing afterwards we'll use one of  신록의 품,  시간 팽창 or even a  살아있는 불꽃 if we're out of everything else.
+
+
+
+
+Pre-Combat Checks
+
+Here's what you should do before every raid or dungeon:
+Cast  청동용군단의 축복 (our raid buff) - every pull.
+(Raid) Make sure  마법의 원천 is active on another healer. Your highest HPS ally is a good target.
+Make sure you have a Flask on - applied every 1-2 hours.
+Make sure you have a Food buff - either every pull or every hour depending on the food.
+Make sure you have a 탈라시안 불사조 기름 탈라시안 불사조 기름  on your weapon - applied every two hours.
+(Optional) Apply a 공허에 물든 증강의 룬 공허에 물든 증강의 룬 on - every pull. Can be expensive so lowest priority.
+Cast  시간 변칙 a few seconds before you pull. It'll give you some  메아리 buffs to start the fight with.
+You can read about the best Flask and food buff to use in the Preservation Consumables guide.
+
+
+ Preservation Evoker Major Cooldowns
+Preservation has access to some of the most powerful healing cooldowns in the game. Let's go through them and discuss where we might use them. Aim to pre-plan cooldowns as often as possible. Avoid scenarios where you're saving them "just in case", since this can cost you a lot of Mana through a fight and will increase the chance your raid suffers a death. Layer your raid's defensive cooldowns over the most dangerous moments of each fight to ensure you're covered.
+
+Stasis‎
+ 정지장 lets you store and then re-cast three spells, which means you can capture high value cooldowns like  꿈의 숨결 and  시간 변칙 and cast them again in a big healing burst.  정지장 can be quite intimidating to use as a beginner since it stores 3 spells for a subsequent, later use of them. This rewards pre-emptive, planned use since it takes time to store all three spells and you'll need the spells off cooldown too.
+ How to play with  정지장
+How it works
+ 정지장 spells have no cost, no cooldown, and spells will trigger in the order they were stored.
+For targeted spells,  정지장 will send the duplicated spell at the same target. For spells without a target such as  꿈의 숨결,  정지장 will send the duplicated spell in whichever direction you are currently facing.
+Empowered spells will cast at whatever Rank the original was cast at.
+Doesn't work on major cooldowns like  꿈의 비행,  되돌리기, and so on. It also only counts helpful spells, and thus can't be used as a DPS cooldown.
+You have quite a bit of flexibility over which specific spells you  정지장, but you'll want to aim for high value ones where possible.
+Stasis Combos
+Chronowarden Default Raid Combo
+Chronowarden has some flexibility in how it builds its raid  정지장 combo. Here we cast  꿈의 숨결 before we press  정지장 in order to guarantee a  메리스라의 축복 proc which we'll store in  정지장. Raid Chronowarden will also combine  정지장 with  전세역전 so we will have significant Haste via  시간의 폭발. You might have to wait a moment for the second  시간 변칙 to come off cooldown but it'll be short and it's worth it.
+
+Rank 1
+
+
+
+
+
+Release
+Flameshaper Default Combo
+Flameshaper gets two stacks of  꿈의 숨결 but holding a cast to restore two stacks isn't particularly worth it when we have great alternatives. In raid it can be worth storing these at a low rank to get a lot of HoTs out on the raid to later consume with  에메랄드 꽃 or  신록의 품. In dungeon content, consider upranking the  꿈의 숨결 cast instead so that you get a nice burst heal both when you store and when you release  정지장.
+
+
+Rank X
+
+
+
+Release
+Pre-pull Cheese
+If there's a key damage event early in the fight it is possible to store three  시간 변칙 in your  정지장 before the pull and then release it right before the damage event. The shield will absorb a ton and you'll have  메아리 on the entire raid. It's also possible to do this mid-fight but it's a little impractical since you'll spend 16-20 seconds doing nothing while  시간 변칙 cools down.
+
+
+
+
+
+Release
+Mass Dispel
+ 소작의 불길s removes almost all dispellable debuffs and Bleeds from a target, but doesn't go on cooldown if it doesn't remove anything. That means we can store three in our  정지장 in advance and fully clear the entire group with it. This is niche, but worth having in your back pocket.
+
+
+
+
+
+Release
+ 정지장 will require a lot of practice to master, and don't expect to play it perfectly at first. Once you're in the habit of using it to prepare for and handle high incoming damage, you'll find it's something you can't live without.
+
+
+ Dream Flight‎
+ 꿈의 비행 is a large area AoE heal that'll send you in your chosen direction for 10-50 yards, healing everyone beneath you. It's a high-impact spell on a fairly reasonable cooldown, so you'll want to fit in as many uses as you can. It also adds a lengthy HoT to each target. Aim for a stacked group.
+
+ 꿈의 비행 also applies a large absorb to you while you're in the air (equal to your health bar) which means you should be quite safe. This is removed the instant you land.
+
+Rewind
+Arguably the strongest healing cooldown in the game and certainly among the top 3.  되돌리기 applies a 5 second HoT based on 33% of damage taken in the 5 seconds prior to you hitting the button. It also has a minimum value attached to it, and is doubled in dungeon content. You'll want to line this up with the most dangerous moments of every fight.
+
+
+ Evoker Deep Dives
+In this section we'll cover different aspects of the spec in a little more depth. These are all fairly optional, but can be useful in increasing your overall understanding of the class. If you're brand new to the spec, I'd advise revisiting this section after getting some practice.
+
+Overcoming a 30 yard Range
+Preservation is unique in being the only Healing spec in the game with a reduced 30 yard range. This means that we're able to heal 56% of the area a standard healing spec can, and 44% of the area a Restoration Druid can. The impact of this varies a lot on a fight-by-fight basis - on some fights you'll barely notice it, and in others it'll be a major hindrance. Some tips to play around this limitation include:
+Stand centrally wherever a fight permits.
+Set your mobility buttons to good keybinds and use them often.  부양,  신록의 품,  구출, and  미풍 are all powerful, and between all of them you should have an answer to most movement requirements. Use  부양 as your go-to, since it has the fewest restrictions.
+Adjust and update your planned positioning in between pulls. It isn't always possible to be in a great place, but you can at least be in a good one.
+If you're about to run out of range of a priority target, put a HoT like  꿈의 숨결 or  되감기 on them, or an  메아리 that you can consume later from any range.
+In Mythic+, you're likely to find it an occasional annoyance. You might want to consider telling any group members to stay a little closer than they might otherwise so that they are easier to hit with  꿈의 숨결.
+
+
+Our Preservation Evoker guides are always updated with the latest information from in-game experience, simulations, and logs. Make sure to check our changelog for this page by clicking on View Changelog in the Quick Facts column or on the book icon at the top of the page. If you are interested in more in-depth Preservation Evoker guides for Midnight Season 1, make sure to browse the Navigation Bar at the top of the page.
+Feedback
+Thanks for reading our class guides! If you have any feedback, feel free to leave a comment in the section below, and we will reply as quickly as possible. If you'd like to talk with any of our writers directly, you can do so by joining our Discord server and finding them there!
+
+ 

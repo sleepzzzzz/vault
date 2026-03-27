@@ -1,0 +1,279 @@
+﻿분류,ID,영문명,한글명
+능력,357208,Fire Breath,불의 숨결
+능력,357210,Deep Breath,깊은 숨결
+능력,356995,Disintegrate,파열
+능력,361469,Living Flame,살아있는 불꽃
+능력,364342,Blessing of the Bronze,청동용군단의 축복
+능력,358267,Hover,부양
+능력,390386,Fury of the Aspects,위상의 격노
+능력,355913,Emerald Blossom,에메랄드 꽃
+능력,362969,Azure Strike,하늘빛 일격
+능력,368970,Tail Swipe,꼬리 휘둘러치기
+능력,363906,Disintegrate,Disintegrate
+능력,381773,Permeating Chill,꿰뚫는 한기
+능력,361227,Return,회귀
+능력,353167,Evoker,기원사
+능력,400006,Energizing Flame,활력의 불꽃
+능력,396571,Tempered Scales,단련된 비늘
+전문화,361021,Sense Power,능력 감응
+전문화,1229376,Single-Button Assistant,단일 버튼 보조
+전문화,362980,Mastery: Giantkiller,특화: 거물 사냥꾼
+전문화,406380,Mastery: Timewalker,특화: 시간여행단
+전문화,395153,Sands of Time,시간의 모래
+전문화,365261,Emerald Blossom,에메랄드 꽃
+전문화,356809,Devastation Evoker,황폐 기원사
+전문화,363510,Mastery: Life-Binder,특화: 생명술사
+전문화,356810,Preservation Evoker,보존 기원사
+전문화,360823,Naturalize,자연화
+전문화,396186,Augmentation Evoker,증강 기원사
+전문화,1256943,Devastation Evoker,황폐 기원사
+전문화,406041,Nourishing Sands,자양분 모래
+전문화,1286123,Devastation Evoker,황폐 기원사
+전문화,462078,Preservation Evoker,보존 기원사
+전문화,1256944,Preservation Evoker,보존 기원사
+전문화,396043,Close as Clutchmates,동기지간
+전문화,462075,Evoker,기원사
+전문화,361178,Mass Return,대규모 회귀
+전문화,356816,Initial Evoker,초기 기원사
+전문화,365262,Improved Emerald Blossom,에메랄드 꽃 연마
+전문화,462076,Devastation Evoker,황폐 기원사
+전문화,1256942,Augmentation Evoker,증강 기원사
+전문화,462074,Augmentation Evoker,증강 기원사
+특성,368412,Time of Need,환난의 시기
+특성,374227,Zephyr,미풍
+특성,374968,Time Spiral,시간의 와류
+특성,1256577,Merithra's Blessing,메리스라의 축복
+특성,360995,Verdant Embrace,신록의 품
+특성,409311,Prescience,예지
+특성,1265867,Azure Sweep,하늘빛 휩쓸기
+특성,395152,Ebon Might,칠흑의 힘
+특성,370553,Tip the Scales,전세역전
+특성,363534,Rewind,되돌리기
+특성,373861,Temporal Anomaly,시간 변칙
+특성,364343,Echo,메아리
+특성,369459,Source of Magic,마법의 원천
+특성,375087,Dragonrage,용의 분노
+특성,1264378,Unravel,해체
+특성,359816,Dream Flight,꿈의 비행
+특성,363916,Obsidian Scales,흑요석 비늘
+특성,403631,Breath of Eons,영겁의 숨결
+특성,1242031,Twin Echoes,쌍둥이 메아리
+특성,370665,Rescue,구출
+특성,366155,Reversion,되감기
+특성,369939,Leaping Flames,화염 도약
+특성,372048,Oppressing Roar,탄압의 포효
+특성,355936,Dream Breath,꿈의 숨결
+특성,434300,Bombardments,폭격
+특성,431657,Primacy,수위
+특성,359073,Eternity Surge,영원의 쇄도
+특성,370888,Twin Guardian,쌍둥이 수호자
+특성,357170,Time Dilation,시간 팽창
+특성,1271687,Rising Fury,분노 상승
+특성,1259173,Duplicate,복제
+특성,360806,Sleep Walk,몽유병
+특성,395160,Eruption,분출
+특성,374251,Cauterizing Flame,소작의 불길
+특성,406732,Spatial Paradox,공간의 역설
+특성,370839,Power Swell,힘의 팽창
+특성,370781,Imminent Destruction,임박한 파괴
+특성,370537,Stasis,정지장
+특성,351338,Quell,진압
+특성,369297,Essence Burst,정수 폭발
+특성,1241669,Dream Simulacrum,꿈의 복제
+특성,371032,Terror of the Skies,하늘의 공포
+특성,459725,Molten Embers,녹아내린 불씨
+특성,411164,Event Horizon,사건의 지평선
+특성,376236,Resonating Sphere,공명하는 구슬
+특성,378196,Golden Hour,사활의 순간
+특성,357211,Pyre,기염
+특성,436335,Mass Disintegrate,대규모 파열
+특성,441212,Extended Battle,연장전
+특성,443264,Titan's Gift,티탄의 선물
+특성,376239,Grace Period,은총의 시간
+특성,360827,Blistering Scales,끓어오르는 비늘
+특성,441705,Might of the Black Dragonflight,검은용군단의 무위
+특성,370455,Charged Blast,충전 폭발
+특성,1266151,Strafing Run,공중 포격
+특성,374348,Renewing Blaze,소생의 불길
+특성,409267,Motes of Possibility,가능성의 티끌
+특성,418101,Potent Mana,강력한 마나
+특성,431715,Nozdormu Adept,노즈도르무의 숙련병
+특성,431984,Time Convergence,시간의 합일
+특성,1265979,Twin Flame,쌍둥이 불길
+특성,375797,Animosity,적개심
+특성,369908,Power Nexus,힘의 연결체
+특성,369909,Protracted Talons,길쭉한 갈퀴발톱
+특성,396286,Upheaval,지각 변동
+특성,444088,Consume Flame,화염 흡수
+특성,375777,Causality,사상자
+특성,410352,Stretch Time,시간 증폭
+특성,365933,Aerial Mastery,체공 특화
+특성,369990,Ancient Flame,고대 불꽃
+특성,404977,Time Skip,시간 건너뛰기
+특성,358385,Landslide,산사태
+특성,375510,Blast Furnace,격노의 가열로
+특성,375520,Innate Magic,선천적인 마법
+특성,375544,Inherent Resistance,선천적인 저항
+특성,410261,Inferno's Blessing,불지옥의 축복
+특성,377099,Spark of Insight,통찰의 섬광
+특성,431615,Reverberations,반향
+특성,431695,Temporal Burst,시간의 폭발
+특성,441257,Slipstream,후방기류
+특성,372233,Energy Loop,마력의 순환
+특성,412774,Fate Mirror,운명의 거울
+특성,441176,Melt Armor,방어구 녹이기
+특성,411165,Eye of Infinity,영겁의 눈
+특성,365585,Expunge,말소
+특성,385696,Flow State,완전한 몰입
+특성,373270,Lifebind,생명 결속
+특성,387787,Regenerative Magic,재생의 마법
+특성,375722,Essence Attunement,정수의 조화
+특성,381921,Ouroboros,우로보로스
+특성,441206,Wingleader,날개지도자
+특성,372469,Scarlet Adaptation,진홍빛 적응
+특성,1256689,Merithra's Blessing,메리스라의 축복
+특성,375517,Extended Flight,장기 비행
+특성,459120,Rumbling Earth,지축을 울리는 대지
+특성,1265802,Shattering Stars,산산이 부서지는 별
+특성,375554,Enkindled,타오르는 잔불
+특성,376166,Draconic Legacy,용족의 유산
+특성,438587,Mass Eruption,대규모 분출
+특성,1259175,Duplicate,복제
+특성,1260568,Energy Cycles,마력 순환
+특성,369913,Natural Convergence,자연의 합일
+특성,412713,Interwoven Threads,엮인 실타래
+특성,362874,Temporal Compression,시간 압축
+특성,376888,Tyranny,폭정
+특성,359793,Fluttering Seedlings,팔랑이는 묘목
+특성,407866,Plot the Future,미래 계획
+특성,1260745,Command Squadron,편대 통솔
+특성,371426,Life-Giver's Flame,생명을 베푸는 자의 불꽃
+특성,375561,Lush Growth,무성한 성장
+특성,376164,Instinctive Arcana,본능의 비전력
+특성,431873,Temporality,시간성
+특성,371257,Renewing Breath,소생의 숨결
+특성,387761,Panacea,만병통치약
+특성,410260,Overlord,군주
+특성,1271788,Rising Fury,분노 상승
+특성,377100,Exhilarating Burst,환희의 폭발
+특성,371038,Honed Aggression,공격성 연마
+특성,396187,Essence Burst,정수 폭발
+특성,431442,Chrono Flame,시간의 불꽃
+특성,369089,Volatility,불안정성
+특성,375757,Eternity's Span,영원의 전역
+특성,431874,Double-time,시시각각
+특성,1237978,Tempo Charged,시간 충전
+특성,410685,Symbiotic Bloom,공생의 꽃
+특성,375574,Foci of Life,생명의 집중체
+특성,375801,Burnout,불태움
+특성,373834,Call of Ysera,이세라의 부름
+특성,386405,Inner Radiance,내면의 광휘
+특성,408004,Momentum Shift,가속 전환
+특성,370821,Scintillation,불꽃 섬광
+특성,370886,Bountiful Bloom,풍성한 꽃
+특성,370867,Iridescence,오색 빛깔
+특성,1242745,Inner Flame,내면의 불꽃
+특성,370062,Field of Dreams,꿈의 들판
+특성,386283,Catalyze,촉진화
+특성,376930,Attuned to the Dream,꿈과 조율
+특성,374346,Overawe,위압
+특성,376240,Timeless Magic,영원의 마법
+특성,407869,Anachronism,시대착오
+특성,441180,Hardened Scales,경화된 비늘
+특성,459537,Imminent Destruction,임박한 파괴
+특성,381922,Temporal Artificer,시간의 기술자
+특성,408775,Ignition Rush,점화 질주
+특성,431875,Afterimage,잔상
+특성,406907,Regenerative Chitin,재생의 키틴질
+특성,375556,Tailwind,순풍
+특성,409676,Chrono Ward,시간 수호물
+특성,407876,Accretion,침식 가속
+특성,371806,Recall,시간 역행
+특성,375725,Heat Wave,열기의 파도
+특성,375783,Font of Magic,마법의 샘
+특성,454983,Arcane Reach,신비한 권역
+특성,1271796,Rising Fury,분노 상승
+특성,370845,Spellweaver's Dominance,마법의 지배자의 지배
+특성,444322,Lifecinders,생명불씨
+특성,369846,Feed the Flames,불장난
+특성,1261452,Refined Essence,정제된 정수
+특성,375443,Clobbering Sweep,강대한 휘둘러치기
+특성,386348,Onyx Legacy,오닉스 유산
+특성,433871,Maneuverability,기동성
+특성,441245,Onslaught,맹공
+특성,376150,Spiritual Clarity,명료한 영혼
+특성,368838,Heavy Wingbeats,무거운 날개짓
+특성,386272,Titanic Wrath,티탄의 분노
+특성,1259174,Duplicate,복제
+특성,1267206,Strike from Above,공중 습격
+특성,372527,Time Lord,시간의 군주
+특성,375542,Exuberance,활기
+특성,408233,Bestow Weyrnstone,웨이른석 부여
+특성,403208,Draconic Attunements,용족의 조율
+특성,407814,Pupil of Alexstrasza,알렉스트라자의 제자
+특성,1261448,Concentrated Power,응축된 마력
+특성,406659,Ricocheting Pyroclast,튕기는 화산 쇄설암
+특성,1256682,Merithra's Blessing,메리스라의 축복
+특성,431484,Instability Matrix,불안정 행렬
+특성,443177,Lifespark,생명불꽃
+특성,375796,Hoarded Power,비축한 힘
+특성,404195,Defy Fate,역천
+특성,406904,Volcanism,화산성
+특성,432004,Golden Opportunity,황금빛 기회
+특성,376179,Lifeforce Mender,생명의 치유사
+특성,408083,Font of Magic,마법의 샘
+특성,1219723,Azure Celerity,하늘빛 기민함
+특성,1264269,Legacy of the Lifebinder,생명의 어머니의 유산
+특성,387341,Walloping Blow,매서운 강타
+특성,1250914,Clairvoyant,신통력
+특성,408002,Tectonic Locus,땅의 구심점
+특성,375721,Azure Essence Burst,하늘빛 정수 폭발
+특성,376237,Nozdormu's Teachings,노즈도르무의 가르침
+특성,370819,Scorching Embers,이글거리는 잿불
+특성,410784,Echoing Strike,메아리치는 강타
+특성,411212,Font of Magic,마법의 샘
+특성,1241704,Wings of Liberty,자유의 날개
+특성,371034,Lay Waste,초토화
+특성,412710,Timelessness,무궁
+특성,375406,Obsidian Bulwark,흑요석 보루
+특성,441219,Diverted Power,전환된 힘
+특성,375618,Arcane Intensity,비전 격화
+특성,376872,Ruby Essence Burst,루비 정수 폭발
+특성,376204,Just in Time,딱 맞춘 시간
+특성,1239581,Unshakable,확고부동
+특성,1260484,Chronoboon,시간은혜
+특성,375528,Forger of Mountains,산맥을 벼려낸 자
+특성,376207,Delay Harm,해악 지연
+특성,441181,Menacing Presence,살기등등한 존재감
+특성,441246,Unrelenting Siege,가차 없는 공성
+특성,1265826,Star Salvo,별의 연사
+특성,370837,Engulfing Blaze,불길의 기세
+특성,414969,Dream of Spring,봄의 꿈
+특성,410643,Molten Blood,용암의 피
+특성,429483,Warp,공간 이동
+특성,444016,Enkindle,점화
+특성,444845,Expanded Lungs,확장된 허파
+특성,444849,Trailblazer,개척자
+특성,1264321,Deep Exhalation,깊은 발산
+특성,409329,Reactive Hide,반응성 가죽
+특성,441253,Nimble Flyer,날렵한 비행
+특성,445074,Shape of Flame,화염의 형상
+특성,445958,Draconic Instincts,용족의 본능
+특성,1265993,Essence Well,정수 우물
+특성,1268881,Improved Defy Fate,역천 연마
+특성,407243,Aspects' Favor,위상의 호의
+특성,444020,Burning Adrenaline,불타는 아드레날린
+특성,410253,Perilous Fate,위험천만한 운명
+특성,445625,Titanic Precision,티탄의 정밀함
+특성,365937,Ruby Embers,루비 잿불
+특성,376138,Empath,동감
+특성,410687,Prolong Life,생명 연장
+특성,1218447,Fulminous Roar,우레와 같은 포효
+특성,1264365,Ashes in Motion,움직이는 재
+특성,1265992,Fire Torrent,화염 격류
+특성,444843,Conduit of Flame,불꽃의 도관
+특성,432008,Motes of Acceleration,가속의 티끌
+특성,1260647,Overclock,과조작
+특성,412723,"Tomorrow, Today",미래와 현재
+특성,412733,Unyielding Domain,불굴의 영역
+기타,-,Midnight,한밤

@@ -1,0 +1,8 @@
+{
+  "label": "💻 개발", 
+  "position": 200,
+  "link": {
+    "type": "generated-index",
+    "description": "개발"
+  }
+}

@@ -1,0 +1,144 @@
+Augmentation Evoker Rotation in Midnight Season 1
+At its most basic, the bread and butter of Augmentation gameplay is all about weaving together your key damaging abilities and group buffs in order to maximize the damage output of your group. Here are some of the big ideas to consider while playing Augmentation:
+Keep your buffs up: Augmentation's rotation is centered around maximizing uptime of  칠흑의 힘.  시간의 모래 allows us to extend the duration of Ebon Might through our damaging rotation: casting  지각 변동 and  불의 숨결 at appropriate ranks on cooldown, spending resources on  분출, and filling downtime with  살아있는 불꽃 (or  하늘빛 일격).
+Always be casting: Keeping high uptime on your rotational spells is key to maintaining a solid resource economy in both raids and Mythic+. Use  부양 effectively to cast spells on the move, and make sure to fill any "downtime" in your rotation with your filler spells, Living Flame and Azure Strike, in order to deal damage and generate  정수 폭발.
+Watch your Essence Burst: Augmentation Evoker has a few different potential sources of  정수 폭발, and the buff only stacks up to 2. Make sure to spend your Essence Burst when capped, ideally before casting  정수 폭발 generators like  예지 and Living Flame to avoid wasting resources.
+Mind your cooldowns: It's often correct to send cooldowns as soon as they've come back up, but look for opportunities to align your major cooldowns like  영겁의 숨결 with allies' cooldowns and big damage moments during an encounter.
+ Best Augmentation Evoker Rotation
+At its core, Augmentation Evoker follows a simple spell priority aimed at maximizing uptime of buffs on allies. Augmentation spends its resources while buffs are active to extend buff duration, and spends its downtime replenishing resources before starting the cycle over again.
+
+Below, we break down the main priority lists for Augmentation Evoker: Single-Target Rotation, AoE Rotation, and your opener sequence.
+Hero Talent Master Switches
+You can use the master switches below to flip the entire page's options to your selected choice.
+
+
+[Single-Target Priority]
+Best Augmentation Evoker Single Target Rotation
+Augmentation in Single Target plays around a spell priority list, while making sure to avoid spending resources outside of  칠흑의 힘 whenever possible, in order to maximize damage and uptime of buffs on allies.
+With  Scalecommander selected, the priority is as follows:
+The builds used below are covered in the Talents page. Anywhere you see the  icon, you can hover over it for additional notes.
+Priority
+Maintain  예지 on chosen DPS players. - 
+Cast  칠흑의 힘 if a few seconds or less remain on the active buff duration.
+Cast  영겁의 숨결 (see section on cooldown usage for more details).
+Cast  전세역전 (see section on cooldown usage for more details).
+Cast  불의 숨결 at Rank 1. - 
+Cast  지각 변동 at Rank 1, unless increased radius is needed to hit relevant targets. - 
+Cast  분출. - 
+Cast  살아있는 불꽃 as filler in nearly all situations.
+Cast  하늘빛 일격 as backup filler that can be cast while moving, or used to slow enemies.
+Maintain  끓어오르는 비늘 on a Tank. - 
+
+[AoE Priority]
+Best Augmentation Evoker AoE Rotation
+Augmentation essentially plays the same in AoE as it does in Single Target. Note that  지각 변동 can be cast at a higher rank to hit enemies in a wider area. When playing  Scalecommander, do make sure to play around  폭격 whenever possible; this is covered in the Advanced Tips section of this page.
+With  Scalecommander selected, the priority is as follows:
+The builds used below are covered in the Talents page. Anywhere you see the  icon, you can hover over it for additional notes.
+Priority
+Maintain  예지 on chosen DPS players. - 
+Cast  칠흑의 힘 if a few seconds or less remain on the active buff duration.
+Cast  영겁의 숨결 (see section on cooldown usage for more details).
+Cast  전세역전 (see section on cooldown usage for more details).
+Cast  불의 숨결 at Rank 1. - 
+Cast  지각 변동 at Rank 1, unless increased radius is needed to hit relevant targets. - 
+Cast  분출. - 
+Cast  살아있는 불꽃 as filler in nearly all situations.
+Cast  하늘빛 일격 as backup filler that can be cast while moving, or used to slow enemies.
+Maintain  끓어오르는 비늘 on a Tank. - 
+
+[Opener]
+Best Augmentation Evoker Opener
+The recommended opener has changed slightly in Midnight: we now immediately cast  칠흑의 힘 after the start of combat to begin buffing the whole raid as soon as possible, and then proceed to cast  예지 and  영겁의 숨결. Other than this minor variation, the opener is highly intuitive, and follows the same goals as the core rotation. Be sure to avoid pairing  전세역전 with  불의 숨결; if we have  녹아내린 불씨 talented, we want to maximize uptime of the  불의 숨결 damage over time effect.
+With  Scalecommander selected, opener details are as follows:
+The builds used below are covered in the Talents page. Anywhere you see the  icon, you can hover over it for additional notes.
+Sample Timeline
+
+
+
+Tank
+
+풀링
+
+
+DPS 1
+
+DPS 2
+
+
+
+
+Opener Sequence
+Pre-cast  끓어오르는 비늘 on a Tank.
+Pre-cast  살아있는 불꽃.
+Cast  칠흑의 힘. - 
+Cast  예지 on Buff Target 1. Use this time to position for  영겁의 숨결.
+Cast  예지 on Buff Target 2.
+Cast  영겁의 숨결. Aim for a short, safe flight path. - 
+Use trinket and 빛의 잠재력 빛의 잠재력 . - 
+ 불의 숨결 at Rank 1.
+Cast  전세역전 (off-GCD). - 
+ 지각 변동 at Max Rank from  전세역전.
+Cast  분출 until dry on Essence, and fill with  살아있는 불꽃 as needed.
+Proceed onto the main rotation.
+
+[Pre-combat Checks]
+Pre-Combat Check
+Before any combat happens, it is important for Augmentation Evoker to make sure the following are done. This applies to raids, dungeons, delves, or even open-world content.
+Check Consumables - Any or all of food, flask, weapon oil, augment rune, as needed.
+Cast your Raid Buff - Use  청동용군단의 축복 to buff you and your raid or party with cooldown reduction on major movement abilities. This buff lasts for an hour.
+Apply Source of Magic - Cast  마법의 원천 on your chosen healer. This buff lasts for an hour.
+Apply Blistering Scales - Cast  끓어오르는 비늘 on your chosen target; this will usually be the tank in group content, or yourself in solo play. This buff lasts for an hour, or until removed.
+(If talented) Draconic Attunements - Check to make sure you have your preferred  용족의 조율 active.  검은 조율 is generally the default choice.
+(If talented) Apply Timelessness - Cast  무궁 on your chosen target; this will usually be a DPS player that generates high amounts of threat. This buff lasts for an hour.
+(If talented) Cast Bestow Weyrnstone - Cast  웨이른석 부여 on your chosen target. This generates an item in both players' inventories which can be activated in combat.
+
+Augmentation Evoker Major Cooldowns
+
+Empower Spells
+The key to making the most of  불의 숨결 and  지각 변동 as an Augmentation Evoker is ideally to ensure that you only cast these abilities while  칠흑의 힘 is up in order to extend the duration of  칠흑의 힘, as well as direct  흐르는 모래 towards nearby buffed allies.
+
+Casting  불의 숨결 at higher Ranks increases its upfront damage while reducing the duration of its Damage over Time (DoT) effect. Additionally, the Evoker class talent  화염 도약 benefits from casting  불의 숨결 at higher Ranks by increasing the number of  살아있는 불꽃 projectiles. Each projectile deals full damage and has an individual chance chance to generate  정수 폭발. Even in single-target, this can cleave onto injured allies and have additional chances to grant  정수 폭발 assuming there was effective healing.
+
+The capstone talent,  녹아내린 불씨, encourages you to maximize uptime on the  불의 숨결 DoT effect. With this talent selected, you will always want to cast  불의 숨결 at Rank 1, and will want to ensure ensure that you cast  불의 숨결 before  지각 변동 to maximize damage.
+
+In summary, with  녹아내린 불씨 talented always cast  불의 숨결 at Rank 1, otherwise ranking up  불의 숨결 is encouraged for the additional value from  화염 도약.
+
+Empowering  지각 변동 simply expands the radius of the spell's area of effect, so in single-target situations Rank 1  지각 변동 is entirely sufficient. In AoE situations, you will want to uprank  지각 변동 such that as many enemies as possible are within the area of effect.
+
+Tip The Scales
+With  녹아내린 불씨 talented, you will want to use  전세역전 on cooldown and just before casting  지각 변동 in your rotation. This allows you to still cast one of your Empower spells instantly while ensuring that you continue to cast  불의 숨결 at Rank 1 at all times.
+
+If you do not have  녹아내린 불씨 talented, you can choose to pair  전세역전 with either of your Empower spells:  불의 숨결 to deal damage more quickly and benefit from  화염 도약, or  지각 변동 if the additional radius is beneficial.
+
+Remember that using  전세역전 always saves a small amount of time over casting Empower spells normally, even at Rank 1. More importantly, it makes the Empower spell cast instantly, activating the spell sooner and allowing you to cast while moving.
+ Chronowarden Tip The Scales
+When playing  Chronowarden, in addition to the above, be sure to treat  시간의 폭발 from  전세역전 as a major DPS cooldown and aim to align it with your  영겁의 숨결 and other major cooldowns for optimal results.  시간은혜 does reduce the cooldown of  전세역전, but it is generally best to ignore this cooldown reduction and continue to pair  전세역전 with  영겁의 숨결.
+
+Ebon Might
+ 칠흑의 힘 is Augmentation's main group buff on a baseline 30-second cooldown, which encourages you to cast this ability as often as possible while aligning with the DPS cooldowns of other players. When  칠흑의 힘 is down, it is generally best to take the time to build resources and hold onto abilities which extend  칠흑의 힘 until your next  칠흑의 힘 window is active.
+
+ 칠흑의 힘 is beholden to the "pandemic" mechanic of duration extension, meaning that you can cast  칠흑의 힘 while it's active and add the remaining duration onto the new spell cast, provided that this is less than 30% of the base duration of the buff. It is ideal to re-cast  칠흑의 힘 with no more than 3-4 seconds remaining in order to minimize wasted uptime.
+
+The amount of main stat granted by  칠흑의 힘 currently updates dynamically to reflect changes in the caster's Intellect stat, but does not currently update to reflect player deaths or removed buffs.
+
+Breath of Eons
+The ideal usage for any individual cast of  영겁의 숨결 involves aligning the 10-second Temporal Wounds window with the highest-burst windows of your buffed allies' DPS rotations. However, practically speaking, it is more likely that you will aim to cast  영겁의 숨결 roughly on cooldown to maximize uses, assuming some non-zero amount of damage contribution from your buffed allies.
+
+While raiding, make sure to be flexible with the exact timing of  영겁의 숨결. Mythic Raid encounters, for example, often have very specific timings where players choose to use their DPS cooldowns, including damage amplifications, shield phases, add phases, and other mechanics. Being aware of these key timings can help maximize your buff output with  영겁의 숨결.
+
+Time Skip
+While  엮인 실타래 can be used in all PvE content, it comes at the cost of a capstone talent point. This means that Augmentation Evokers will occasionally find additional value taking other capstone talents and instead playing  시간 건너뛰기.
+
+ 시간 건너뛰기 naturally encourages you to set up windows where multiple strong abilities are all on cooldown, at which point channeling  시간 건너뛰기 results in tremendous value returned over a number of different spells.
+
+It is currently recommended that you first use  시간 건너뛰기 during your opener and following your first set of Empower spells  불의 숨결 and  지각 변동. This timing maximizes your cooldown reduction, applies  흐르는 모래 to two additional targets, and provides additional burst damage through your damaging spells. This timing also maximizes cooldown reduction value from  시간 건너뛰기 during your  시간의 폭발 window when playing  Chronowarden.
+
+After your first cast, consider using  시간 건너뛰기 essentially on cooldown, aligning with  시간의 폭발 whenever possible (as  Chronowarden), and ideally when channeling  시간 건너뛰기 will reduce the cooldowns of  불의 숨결,  지각 변동,  예지, and  영겁의 숨결 by the full 20 seconds.
+
+Augmentation Evoker Advanced Tips
+
+Bombardments
+
+Spreading Bombardments
+When playing  Scalecommander, your Empower spells each grant a buff causing your next cast of  분출 to be cast as  대규모 분출 and apply  폭격 to the target. This buff stacks up to 2, allowing you to cast both Empower spells back-to-back. In situations with two or more high-health enemies, cast your second  분출 on a second priority target in order to have  폭격 rolling on both targets simultaneously. Any time  연장전 activates, it extends the duration of all active  폭격, meaning that you gain twice the value by doing this, increasing your damage done and further reducing the cooldown on  영겁의 숨결 from  날개지도자.
+Our Augmentation Evoker guides are always updated with the latest information from in-game experience, simulations, and logs. Make sure to check our changelog for this page by clicking on View Changelog in the Quick Facts column or on the book icon at the top of the page. If you are interested in more in-depth Augmentation Evoker guides for Midnight Season 1, make sure to browse the Navigation Bar at the top of the page, along with our list of Related Guides just beneath the Table of Contents.

@@ -1,0 +1,248 @@
+Devastation Evoker Rotation Guide - Midnight
+Preheat (이)가 작성함
+업데이트됨: 2026/03/23
+Preheat
+현재 트위치 오프라인
+팔로우:
+Welcome to the Devastation Evoker rotation guide for Midnight Season 1! This guide will teach you all about the optimal rotation for Devastation Evoker across its various talent builds. It will cover both core ability cadence and cooldown usage in dungeons and raids for Midnight Season 1.
+
+Overview
+
+BiS Gear
+
+Rotation
+
+Talent Builds
+
+Consumables
+
+Stats
+
+Basics
+Devastation Evoker Rotation in Midnight Season 1
+Devastation Evoker is a fairly simple and straightforward with its spell priority. Cooldowns are mostly used on cooldown, while building and spending 정수 /  정수 폭발.
+Build and Spend:  파열 and  기염 spend 정수, primary resource for Evokers.  살아있는 불꽃 and  하늘빛 일격 are the filler spells that generate  정수 폭발, a proc that allows you to use these abilities without spending Essence. Spend Essence and Essence Burst, then use filler spells while waiting.
+Use cooldowns frequently:  용의 분노 and  깊은 숨결 (Scalecommander) are Devastation's main cooldown. Essence Burst is guaranteed from filler spells during this buff. Its duration can be extended by both  영원의 쇄도 and  불의 숨결 with  적개심. Given that both spells also come with their own short cooldowns, consider what is available when entering Dragonrage and to press them on cooldown during it.
+Always be casting: Try to maintain high uptime on targets. Constant use of damaging spells is the key to high damage in Raid and Mythic+. Use  부양 effectively to cast spells on the move. Try to fill "downtime" in your rotation with spells, even if its not completely optimal (Azure Strike for instance). Using something is almost always better than being idle. Try to use cooldowns and Empowered spells early and often.
+
+광고 신고
+모든 광고 제거
+ Best Devastation Evoker Rotation
+Hero talents also add some flavor to the rotation. Scalecommander uses  깊은 숨결 and  Flameshaper monitors  불의 숨결 duration. Aside from this, they mostly play the same.
+
+Below, we break down the main priority lists for Devastation Evoker: Single-Target Rotation, AoE Rotation, and your opener sequence.
+Hero Talent Master Switches
+You can use the master switches below to flip the entire page's options to your selected choice.
+
+
+Single-Target Priority
+
+Best Devastation Evoker Single Target Rotation
+Devastation in Single Target plays around a simple priority list. This means with each cast and GCD we go top to bottom on a list, and press the button with the current highest value.
+With  Scalecommander selected, the priority is as follows:
+The builds used below are covered in the Talents page. Anywhere you see the  icon, you can hover over it for additional notes.
+Priority
+ 부양 if capped and  깊은 숨결 is ready soon. - .
+ 깊은 숨결. - 
+ 깊은 숨결 when  공중 포격 is about to expire. - 
+ 용의 분노.
+ 전세역전.
+ 영원의 쇄도 Rank 1.
+ 불의 숨결 Rank 1.
+Channel  파열 with  대규모 파열. - 
+Channel  파열. - 
+ 하늘빛 휩쓸기.
+ 살아있는 불꽃 as filler.
+ 하늘빛 일격 if needed for movement.
+ Further Details 
+ Scalecommander frequently uses  깊은 숨결 even in Single Target. In addition, each time you use  불의 숨결 and  영원의 쇄도, you gain a buff that changes  파열 into  대규모 파열.
+
+ 부양 can be cast while casting, and allows you to cast while moving. With  후방기류, a  부양 charge resets with each  깊은 숨결. The  부양 buff grows in duration with each cast, so be sure to spend a  부양 charge before each  후방기류.
+
+ 깊은 숨결 is very strong and should be used on cooldown, but you don't want to stay in the animation longer than needed. Use the  깊은 숨결 cancel macro found on the macros page. Here's an example of the macro for  파열:
+#showtooltip Disintegrate
+/cancelaura Deep Breath
+/cast Disintegrate
+This macro will end your  깊은 숨결 with the first press and use  파열 with the second. You would tap it twice, right as you hit your target.
+
+AoE Priority
+
+Best Devastation Evoker AoE Rotation
+For Devastation, AoE is defined as 3 or more targets. Devastation plays mostly the same in AoE, aside from sometimes casting  기염. Ranking Empowered spells up can also be beneficial.
+
+With  Scalecommander selected, the priority is as follows:
+The builds used below are covered in the Talents page. Anywhere you see the  icon, you can hover over it for additional notes.
+Priority
+ 부양 if capped and  깊은 숨결 is ready soon. - .
+ 깊은 숨결.
+ 용의 분노.
+ 전세역전 on  영원의 쇄도. - .
+ 불의 숨결 Rank 1.
+ 영원의 쇄도 Rank 1.
+ 깊은 숨결 with  공중 포격.
+ 기염 with >= 18 stacks of  충전 폭발 at 4+ targets.
+Channel  파열 with  대규모 파열. - 
+ 기염 at 4+ targets.
+Otherwise, channel  파열. - 
+ 하늘빛 휩쓸기.
+ 살아있는 불꽃 with  화염 도약 and  불태움.
+ 하늘빛 일격 as filler.
+ Further Details 
+In AoE,  깊은 숨결 with  공중 포격 does not have a specific delay. It is simply lower priority than other spells since it is no longer holding up the  깊은 숨결 cooldown.
+
+Currently, it is not worth it to rank Empowers up in Single Target or AoE. Use  불의 숨결 and  영원의 쇄도 at Rank 1, unless you have  대규모 파열.
+
+ 충전 폭발 stacks are worth tracking. Try to avoid casting  기염 in the 5 or so seconds before  용의 분노 to gain 3x value on the  용의 분노  기염s.
+
+Swap targets after each  대규모 파열 to apply  폭격 to multiple targets to get more value on  연장전.
+
+
+Opener
+
+Best Devastation Evoker Opener
+The optimal Devastation Evoker opener sets up your  용의 분노 and uses various cooldowns, trinkets, or items. Following that, we transition into our main rotation.
+With  Scalecommander selected, opener details are as follows:
+The builds used below are covered in the Talents page. Anywhere you see the  icon, you can hover over it for additional notes.
+Sample Timeline
+
+
+
+
+풀링
+
+
+
+
+
+
+Opener Sequence
+ 부양 twice before combat. - .
+Pre-cast  살아있는 불꽃.
+Use damage potion
+AoE Only: Use 바엘고어의 마지막 시선 바엘고어의 마지막 시선.
+ 깊은 숨결. - 
+ 용의 분노.
+ 전세역전.
+ 영원의 쇄도.
+ 불의 숨결 Rank 1.
+AoE Only:  깊은 숨결 again.
+Channel  파열. - 
+ 용의 분노 is now active, continue to the normal rotation.
+Outside of AoE: Delay your damage trinket (ex: 바엘고어의 마지막 시선 바엘고어의 마지막 시선) until you have 4 stacks of  분노 상승.
+
+
+Pre-Combat Checks
+
+Pre-Combat Check
+Before any combat happens, it is important for Devastation Evoker to make sure the following are done. This applies to raids, dungeons, delves, or even open-world content.
+Cast Group Buffs - Use  청동용군단의 축복 to buff you and your allies.
+Heal up - Use  살아있는 불꽃 /  에메랄드 꽃 /  신록의 품 to heal yourself and allies. This will fill your  진홍빛 적응 buff, if it does not overheal.
+Consider Threat (Optional) - Think twice about going full blast if Tanks are inexperienced. You have no way to drop aggro if you pull before Tanks establish threat.
+
+Devastation Evoker Major Cooldowns
+Devastation Evoker has one main cooldown:  용의 분노. Other cooldowns are minor, or group buffs. The below section covers how they work, and most importantly, how to get the most out of each use.
+
+
+Dragonrage
+
+Dragonrage
+ 용의 분노 is your main cooldown as Devastation. This buff guarantees  정수 폭발 procs from  살아있는 불꽃 and  하늘빛 일격 for the duration. Try to use it every 2 minutes.
+
+Other key takeaways are:
+Activating this spell fires 3  기염s at random targets.
+Gain the full effect of  특화: 거물 사냥꾼 with  폭정.
+ 불의 숨결 and  영원의 쇄도 extend the buff with  적개심.
+ 용의 분노 can be held for AoE, but it is a fairly long buff. The average duration should be around 32 seconds with proper play.
+Apex talents buff your damage during this cooldown ( 분노 상승 /  분노 상승)
+Gain a damage buff after  용의 분노 expires with  분노 상승.
+
+Empower Spells
+
+Empower Spells
+ 불의 숨결 and  영원의 쇄도 are Devastation's Empower spells. These can be ranked up for different effects.
+
+Empowering  불의 숨결 moves damage from the debuff it applies into the initial hit of upfront damage.  화염 도약 also increases in target count per Empower level. The DoT component from  불의 숨결 scales dynamically with  특화: 거물 사냥꾼, which means that the damage goes down as the target loses health.
+
+Empowering  영원의 쇄도 increases the target count, and has an affect on damage talents like  산산이 부서지는 별.  영원의 전역 doubles the target count per level.
+For  Flameshaper,  불의 숨결 and  영원의 쇄도 (without  전세역전) should generally be used at rank 1 in Single Target and AoE.
+ 불의 숨결 has two charges.
+ 화염 흡수 uses  불의 숨결 to fuel explosions. This chips away at remaining duration.
+For  Scalecommander,  불의 숨결 (without  전세역전) and  영원의 쇄도 should generally be used at rank 1 in Single Target and AoE.
+Each use of Empowered spells will enable  대규모 파열.
+ 대규모 파열 marks the target for  폭격. This enables a damage proc for you and allies.
+ 
+Tip The Scales
+
+Tip The Scales
+ 전세역전 is a minor cooldown. It is used in  용의 분노 to instantly cast  영원의 쇄도 or  불의 숨결 at max rank.
+For  Flameshaper,  전세역전 should only be used on  영원의 쇄도. Higher  불의 숨결 uptime is better for  이글거리는 잿불,  불태움 procs,  불의 숨결 damage via  촉진화, and  화염 흡수.
+
+For  Scalecommander,  전세역전 can be used on either  영원의 쇄도 or  불의 숨결.
+
+Deep Breath
+
+Deep Breath
+ 깊은 숨결 is another notable cooldown. This spell always gets full  특화: 거물 사냥꾼 value with  폭정. Optimal usage depends on your Hero Talents, but it can also be used for movement or to avoid/break crowd control (stuns and roots). Always use  깊은 숨결 at minimum range unless you need it for movement. It is important to remember that while flying, effects on the ground will still hit you, and you will be locked into the animation. Some class talents modify this ability:
+ 임박한 파괴 gives you a short buff that decreases 정수 costs and increases damage.
+ 공중 포격 increases damage and allows for a second use.
+ 오닉스 유산 reduces the cooldown.
+ 시간 증폭 takes any damage taken during the skill and stretches it out, adding some safety.
+ Scalecommander uses this spell on cooldown, due to talents like  기동성 and  편대 통솔. This version of  깊은 숨결 can be steered, and you can eject from it.
+Cooldown is further reduced by  폭격 procs via  날개지도자.
+Your Z-axis is preserved during this spell, so long as you don't fly uphill. Use height to your advantage if you plan to fly over rocky or dangerous terrain.
+ Flameshaper does not typically use  깊은 숨결 for damage, unless talents like  임박한 파괴 are taken.
+ 
+ Fury of the Aspects
+ 
+Fury of the Aspects
+ 위상의 격노 is a group cooldown, which means that when to use it is often a group decision. This spell grants you and your allies the  피의 욕망 effect, increasing your Haste. This spell is off the global cooldown.
+
+ 위상의 격노 applies the  소진 debuff, locking players out of receiving similar effects for 10 minutes.
+ 
+
+Devastation Evoker Advanced Tips
+The best thing you can do to improve your damage as a Devastation Evoker is to always be casting. Idle time in combat, caused by inactivity or poor movement, adds up and will greatly affect your damage. Mastering movement with  부양 and keeping focus during combat is unequivocally the best way to raise your damage.
+
+
+Hover and Movement
+ 부양 is your most important tool for minimizing damage losses due to movement.  부양 can be cast while casting, and allows you to cast on the move. Subsequent  부양 casts add to the duration, meaning you can use it again while the buff is up without wasting duration. Any time you cancel a cast because you needed to move, it created a small period of downtime. These add up and greatly reduce your damage.
+
+ 활공 is also very useful for movement, since using it is much faster than running. Simply tap your spacebar for a boost. Keep in mind, this will not work during normal casts. The trick with  활공 is to triple tap, since canceling it removes the slowfall effect. This makes you travel faster, and hit the ground quicker. Bonus tip: Some ground effects can be avoided if you are at the height of your  활공.
+
+Another interesting quirk of  부양 is that it allows you to  활공 while channeling  파열. This is very powerful, since it allows you to quickly reposition by tapping your spacebar. Combine  부양 with  활공 canceling to quickly hop around the battlefield while channeling.
+
+Not all downtime is created equal. During  용의 분노, stakes are higher. As Scalecommander, getting full value from  대규모 파열 is also very important. For these reasons, I recommend always having a  부양 in hand for cooldowns. Scalecommander has a much easier time with  부양, since each  깊은 숨결 refunds a charge via  후방기류. Make sure you make room for this ahead of time, or the value is wasted.
+
+Aside from  영원의 쇄도 and  불의 숨결, all spells can be cast on the move with  부양.
+
+Deep Breath Z-axis
+As Scalecommander,  깊은 숨결 works a bit differently due to  기동성. One interesting property is that it preserves your Z-axis while you are flying. This can be good or bad, depending on the situation. A common situation you want to avoid is using  깊은 숨결 uphill. Once you start scraping the ground, even a pebble can stop you in your tracks. Instead, try to gain the high ground before using  깊은 숨결.
+
+Another trick is to  활공 to gain altitude before  깊은 숨결. This helps greatly on level surfaces, since even a little added height often allows you to fly over obstacles that would normally stop you in your tracks. In some cases, added height also allows you to avoid damage ground mechanics.
+
+ 부양 and  깊은 숨결 can also be used in tandem to cross great distances in the air. You can try this yourself: Start by jump  활공ing from a high place. Use both  부양 charges to dash forward twice, then use  깊은 숨결 until it expires.  깊은 숨결 again, then  부양 forward twice using the refunds from  후방기류.  시간의 와류 for one last forward  부양, then finish by reactivating  활공. In total, this is around 200 yards of movement with minimal loss of height.
+ 
+ 
+ Disintegrate Chaining and Clipping
+ 파열 has 5 ticks with  하늘빛 기민함 and 4 ticks without. If channeling  파열, you can cast  파열 again after the 4th tick without losing damage. This causes the new  파열 to chain in a similar "Pandemic" fashion and moves remaining duration and final tick of the previous channel to the new one. This is chaining, and you don't lose any value doing this. As a general rule, you always want to avoid downtime by chaining  파열 after the penultimate tick.
+
+As Scalecommander, avoid chaining a  대규모 파열 into a normal  파열 as this will cause you to lose a percentage of the buff equal to how many ticks you clipped.
+
+Clipping is when you cut  파열 short by either interrupting it with another spell or Chaining too early. Clipping is best avoided, but can be a small gain under certain circumstances. Currently, clipping non- 대규모 파열  파열 one tick early, by interrupting it for Empowers or  깊은 숨결, is a very small (0.4%) gain for Scalecommander.
+
+If you mess clipping up the loss will outweigh the gain, so decide for yourself if the juice is worth the squeeze.
+Chaining Example
+
+
+Example  파열 channel (imagine this is your castbar):
+5 |-------------------------| 4	|-------------------------| 3	|-------------------------| 2	|-------------------------| 1
+Channels go from right to left. The first tick happens when the  파열 is cast. The last tick is when the channel ends.
+Between 4 and 5 is ok to chain
+Let's assume you chain a second  파열 on the red line.
+5 |-------------|-----------| 4	|------------------------| 3	|------------------------| 2	|------------------------| 1
+The remainder on this last tick gets carried into the new channel. This means the new  파열 has 6 ticks.
+6 |-----------------------| 5	|------------------------| 4	|------------------------| 3	|------------------------| 2	|-------------| 1
+
+
+
+Our Devastation Evoker guides are always updated with the latest information from in-game experience, simulations, and logs. Make sure to check our changelog for this page by clicking on View Changelog in the Quick Facts column or on the book icon at the top of the page. If you are interested in more in-depth Devastation Evoker guides for Midnight Season 1, make sure to browse the Navigation Bar at the top of the page, along with our list of Related Guides just beneath the Table of Contents.

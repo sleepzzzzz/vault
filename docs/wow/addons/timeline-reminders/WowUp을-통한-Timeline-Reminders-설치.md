@@ -1,9 +1,4 @@
----
-title: WowUp을 통한 Timeline Reminders 애드온 설치
-sidebar_label: WowUp을 통한 Timeline Reminders 애드온 설치
----
-
-# WowUp을 통한 Timeline Reminders 애드온 설치
+# WowUp을 통한 Timeline Reminders 설치
 
 - **Created At:** 2026-03-23
 - **Updated At:** 2026-03-23
